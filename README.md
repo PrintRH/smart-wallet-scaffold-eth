@@ -1,8 +1,8 @@
 # 🏗 Scaffold-ETH 2
 
-## Smart Wallet Scaffold ETH
+## Base Smart Wallet
 
-This codebase is as an integration on top of [Scaffold-ETH 2](https://scaffoldeth.io/). I learned about Smart Wallets at Base House ETH Denveer, and got really excited to set this up and share with everyone!
+This codebase is as an integration on top of [Scaffold-ETH 2](https://scaffoldeth.io/). I learned about Smart Wallets at Base House ETH Denver, and got really excited to set this up and share with everyone!
 
 ## About Smart Wallet
 
